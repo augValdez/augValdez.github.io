@@ -5,7 +5,7 @@
 ### [FindAGolfPro](https://github.com/augValdez/FindAGolfPro/tree/master)
 This is my Senior Capstone for Westminster College. This is an Android Mobile App that will bring the outdated way of finding a golf professional up to date! This project uses React Native, NodeJS, and PostgreSQL to store and view information on golf pros and courses. Additionally using Google Maps API to make a user-friendly way of finding golf pros and courses near you.
 
-<a href="pdfs/https://github.com/augValdez/augValdez.github.io/blob/main/avaldez_10.18.2020.pdff" class="image fit"><img src="images/marr_pic.jpg" alt="Resume"></a>
+# [Resume](https://github.com/augValdez/augValdez.github.io/blob/main/avaldez_10.18.2020.pdf)
 
 ### [Student Demographics](https://github.com/augValdez/StudentDemographics)
 This is final project for Databases that Hannah Freudenberger and I did. It is a student demographics survey for the students of Westminster, where we take students answers from a survey we created and run different queries on their information.
